@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+      <item
+          android:id="@+id/nav_share"
+          android:icon="@drawable/baseline_share_24"
+          android:title="Share quote"
+          xmlns:app="http://schemas.android.com/apk/res-auto":showAsAction="ifRoom"/>
+      <item
+            android:id="@+id/navigation_bar_item_active_indicator_view"
+          android:icon="@drawable/baseline_replay_24"
+            android:title="Replay Quote"
+          xmlns:app="http://schemas.android.com/apk/res-auto":="ifRoom"
+
+          />
+
+
+
+</menu>
+<values xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+      android:id= "@+id/res/values/strings.xml"
+      android:icon= "drawable/res/drawable/baseline_format_quote_24.xml"
+      android:title="Quotsations"
+    xmlns:app="http://schemas.android.com/apk/res-auto":showsvalues="Show Values"
+    />
+
+</values>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Qoute Of The Day</string>
+
+    <string name="quote_string1">"The only way to do great work is to love what you do." <b>\n\n-Steve Jobs </b>.
+    </string>
+
+    <string name="quote_string2">"Believe you can and you're halfway there."<b>\n\n- Theodore Roosevelt </b>.</string>
+
+
+    <string name="quote_string3">"Success is not final, failure is not fatal: It is the courage to continue that counts." <b>\n\n- Winston Churchill </b>.</string>
+
+
+    <string name="quote_string4">"In the middle of every difficulty lies opportunity." <b>\n\n Albert Einstein </b>.</string>
+
+
+    <string name="quote_string5">"The only limit to our realization of tomorrow will be our doubts of today."<b>\n\n- Franklin D. Roosevelt</b>.</string>
+
+
+    <string name="quote_string6">"Your time is limited, don't waste it living someone else's life."<b>\n\n-Steve Jobs </b>.</string>
+
+
+    <string name="quote_string7">"The best way to predict the future is to create it." <b>\n\n- Peter Drucker </b>.</string>
+
+</resources>
